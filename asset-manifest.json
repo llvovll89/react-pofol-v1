@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-pofol-v1/static/css/main.7fb4b25b.css",
+    "main.js": "/react-pofol-v1/static/js/main.5834d797.js",
+    "static/media/img4.jpg": "/react-pofol-v1/static/media/img4.80204970a888b7ab18f3.jpg",
+    "static/media/img6.jpg": "/react-pofol-v1/static/media/img6.3b4a1de7bf67f1f64326.jpg",
+    "static/media/img1.jpg": "/react-pofol-v1/static/media/img1.0620c81144f0b9cf8069.jpg",
+    "index.html": "/react-pofol-v1/index.html",
+    "main.7fb4b25b.css.map": "/react-pofol-v1/static/css/main.7fb4b25b.css.map",
+    "main.5834d797.js.map": "/react-pofol-v1/static/js/main.5834d797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb4b25b.css",
+    "static/js/main.5834d797.js"
+  ]
+}
